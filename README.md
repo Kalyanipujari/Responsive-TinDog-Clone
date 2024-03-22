@@ -2,7 +2,7 @@
 
 ## Overview
 
-Tindog is a fictional website concept inspired by Tinder but for dogs! This project demonstrates a responsive web design using HTML, CSS, and JavaScript.
+Tindog is a fictional website concept inspired by Tinder but for dogs! This project demonstrates a responsive web design using HTML & CSS.
 
 ## Features
 
@@ -14,7 +14,6 @@ Tindog is a fictional website concept inspired by Tinder but for dogs! This proj
 
 - HTML
 - CSS
-- JavaScript (for interactive elements)
 
 ## How to Use
 
